@@ -9,6 +9,7 @@
     - [Experience](#experience)
 2. [Some food I've made](#some-food-ive-made)
 3. [Future plans](#future-plans)
+4. [Quotes](#quotes)
 
 ## Me
 
